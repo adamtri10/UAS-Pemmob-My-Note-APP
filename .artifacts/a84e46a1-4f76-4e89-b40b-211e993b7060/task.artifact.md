@@ -1,0 +1,3 @@
+- [x] Update `DashboardScreen.kt` to display formatted `updatedAt` timestamp
+- [x] Update `EditorScreen.kt` to display `createdAt` and `updatedAt` timestamps
+- [x] Verify build and visual appearance
