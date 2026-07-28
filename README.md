@@ -8,8 +8,7 @@ Silakan unduh melalui tautan berikut:
 
 ## Screenshot 
 
-<img width="123" height="266" alt="image" src="https://github.com/user-attachments/assets/8af3c8c1-990a-40e9-8ac3-87e90ffe79c0" />
-Tampilan awal masuk 
+<img width="123" height="266" alt="image" src="https://github.com/user-attachments/assets/8af3c8c1-990a-40e9-8ac3-87e90ffe79c0" /Tampilan awal masuk> 
 <img width="123" height="266" alt="image" src="https://github.com/user-attachments/assets/19f30e95-2a8d-4647-9b03-a5204f4a8c53" />
 Proses buat note
 <img width="123" height="266" alt="image" src="https://github.com/user-attachments/assets/40319f3b-a42b-4c7c-9b4d-95dc924dbdb5" />
