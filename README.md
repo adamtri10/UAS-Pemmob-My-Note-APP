@@ -53,7 +53,7 @@ Silakan unduh melalui tautan berikut:
 ## 🕒 Perubahan Terakhir Tercatat
 
 <p align="center">
-  <img src="asset/Perubahan terakhir tercatat (jam & tanggal).jpeg" width="350">
+  <img src="asset/Perubahan terakhir tercatat(jam & tanggal).jpeg" width="350">
 </p>
 
 ---
