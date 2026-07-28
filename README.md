@@ -7,6 +7,8 @@ Silakan unduh melalui tautan berikut:
 - https://github.com/adamtri10/UAS-Pemmob-My-Note-APP/releases/tag/MyNotev1.0
 
 ## Screenshot 
+
+```html
 <h2 align="center">📱 Tampilan dan Fitur MyNote App</h2>
 
 <p align="center">
