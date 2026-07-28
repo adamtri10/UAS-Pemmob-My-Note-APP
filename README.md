@@ -22,7 +22,7 @@ Silakan unduh melalui tautan berikut:
       <h3>📝 Buat Note</h3>
 
       <img
-        src="./Buat%20Note.png"
+        src="./Buat%20Note"
         width="230"
         alt="Halaman Buat Note"
       />
