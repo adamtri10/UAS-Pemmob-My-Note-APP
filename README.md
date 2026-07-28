@@ -7,64 +7,59 @@ Silakan unduh melalui tautan berikut:
 - https://github.com/adamtri10/UAS-Pemmob-My-Note-APP/releases/tag/MyNotev1.0
 
 ## Screenshot 
-
 <h2 align="center">📱 Tampilan dan Fitur MyNote App</h2>
 
 <p align="center">
-  Berikut adalah tampilan utama dan fitur-fitur yang tersedia pada aplikasi <b>MyNote App</b>.
+  Berikut adalah beberapa tampilan dan fitur yang tersedia pada aplikasi <b>MyNote App</b>.
 </p>
-
-<br>
 
 <table align="center">
 
-  <!-- Baris 1 -->
   <tr>
     <td align="center" width="50%">
       <h3>📝 Buat Note</h3>
 
       <img
-        src="Buat Note.png"
+        src="./Buat%20Note.png"
         width="230"
         alt="Halaman Buat Note"
       />
 
       <p>
-        Halaman yang digunakan pengguna untuk membuat catatan baru,
-        menulis isi catatan, memilih warna, dan menyimpan catatan.
+        Halaman untuk membuat catatan baru, menulis isi catatan,
+        memilih warna, dan menyimpan catatan.
       </p>
     </td>
 
     <td align="center" width="50%">
-      <h3>📄 Contoh Hasil Note yang Selesai</h3>
+      <h3>📄 Contoh Hasil Note</h3>
 
       <img
-        src="Contoh Hasil Note yang selesai.png"
+        src="./Contoh%20Hasil%20Note%20yang%20selesai.png"
         width="230"
         alt="Contoh Hasil Note yang Selesai"
       />
 
       <p>
-        Menampilkan catatan yang telah berhasil dibuat dan disimpan
-        pada halaman utama aplikasi.
+        Menampilkan catatan yang telah berhasil dibuat
+        dan disimpan pada aplikasi.
       </p>
     </td>
   </tr>
 
-  <!-- Baris 2 -->
   <tr>
     <td align="center" width="50%">
       <h3>📌 Fitur Pin</h3>
 
       <img
-        src="Fitur Pin.png"
+        src="./Fitur%20Pin.png"
         width="230"
         alt="Fitur Pin"
       />
 
       <p>
-        Fitur untuk menyematkan catatan penting agar tetap berada
-        di bagian atas daftar catatan.
+        Catatan penting dapat disematkan agar tetap
+        berada di bagian atas daftar catatan.
       </p>
     </td>
 
@@ -72,32 +67,31 @@ Silakan unduh melalui tautan berikut:
       <h3>🔍 Fitur Search</h3>
 
       <img
-        src="Fitur Search.png"
+        src="./Fitur%20Search.png"
         width="230"
         alt="Fitur Search"
       />
 
       <p>
-        Pengguna dapat mencari catatan berdasarkan judul
-        atau kata kunci tertentu.
+        Pengguna dapat mencari catatan berdasarkan
+        judul atau kata kunci tertentu.
       </p>
     </td>
   </tr>
 
-  <!-- Baris 3 -->
   <tr>
     <td align="center" width="50%">
-      <h3>🕒 Perubahan Terakhir Tercatat</h3>
+      <h3>🕒 Perubahan Terakhir</h3>
 
       <img
-        src="Perubahan terakhir tercatat.png"
+        src="./Perubahan%20terakhir%20tercatat.png"
         width="230"
         alt="Perubahan Terakhir Tercatat"
       />
 
       <p>
-        Menampilkan waktu pembaruan terakhir pada setiap catatan
-        agar pengguna dapat mengetahui kapan catatan diubah.
+        Menampilkan waktu pembaruan terakhir
+        dari setiap catatan.
       </p>
     </td>
 
@@ -105,32 +99,31 @@ Silakan unduh melalui tautan berikut:
       <h3>⚙️ Settings</h3>
 
       <img
-        src="Settings.png"
+        src="./Settings.png"
         width="230"
         alt="Halaman Settings"
       />
 
       <p>
-        Pengguna dapat mengatur mode tampilan aplikasi
-        dan memilih warna utama sesuai preferensi.
+        Pengguna dapat mengatur tema dan warna utama
+        sesuai preferensi.
       </p>
     </td>
   </tr>
 
-  <!-- Baris 4 -->
   <tr>
     <td align="center" colspan="2">
-      <h3>ℹ️ About</h3>
+      <h3>ℹ️ About Developer</h3>
 
       <img
-        src="About.png"
+        src="./About.png"
         width="230"
-        alt="Halaman About"
+        alt="Halaman About Developer"
       />
 
       <p>
-        Menampilkan informasi mengenai aplikasi dan pengembang,
-        seperti nama, NIM, serta waktu pembuatan aplikasi.
+        Menampilkan informasi mengenai aplikasi
+        dan pengembang.
       </p>
     </td>
   </tr>
